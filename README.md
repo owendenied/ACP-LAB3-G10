@@ -77,7 +77,7 @@ Each weapon is tested in scenarios such as:
 
 ---
 
-## 🔁 Sample Run
+## 🔁 Sample Interaction
 
 ```text
 Select a weapon to test:
@@ -101,3 +101,12 @@ You performed a three-round burst! Damage: 50 | Remaining ammo: 13
 Unloaded Bullet Storm! Total damage: 150 | Remaining ammo: 10
 ```
 
+---
+
+## 🙏 Acknowledgement
+
+We would like to express our deepest gratitude to our **CS 121 instructor, Ms. Fatima Marie Agdon**, for giving light to the essential concepts we used to build this project.
+
+To all the people involved who helped bring this project to fruition — thank you.
+
+Lastly, we would like to acknowledge ourselves for making it this far and for continuing to strive in our pursuit of success.
